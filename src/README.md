@@ -1,0 +1,1 @@
+index.html เป็นไฟล์ compiled พร้อมใช้ โค้ดใน src เป็นส่วนประกอบเพื่อพัฒนาต่อ: page.html ใส่ original styles.css และ data.js; app ใช้ WORKER_CODE (JSON-encoded geometry-worker.js) ตามด้วย base.js และ extension.js. ฟอนต์ฝังใน compiled index.html. ไม่ต้อง build เพื่อใช้งานไฟล์ที่ให้มา

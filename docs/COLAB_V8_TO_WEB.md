@@ -1,0 +1,1 @@
+Colab v9 project/result JSON remains supported in the optional section. v10 runs its own KD-tree/PCA/MAD screening directly in a browser worker. It is not the v8 IsolationForest model. See README.md for supported formats and method boundaries.
